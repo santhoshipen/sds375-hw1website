@@ -1,5 +1,27 @@
 ---
-title: "index"
-output: html_document
+title: "Santhoshi Penmetsa"
+image: "santhoshi.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/santhoshipenmetsa/"
+  - label: GitHub
+    url: "https://github.com/santhoshipen"
+  - label: Email
+    url: "mailto:santhoshi.penmetsa@utexas.edu"
+output:
+  postcards::solana
 ---
 
+## 
+
+Hello, my name is Santhoshi Penmetsa. I am a 20 year old from Austin. I am a third-year undergraduate student studying Statistics and Data Science at University of Texas at Austin with a minor in Computer Science and Business. I'm deeply passionate about the power of data, especially how it reveals hidden patterns, tells compelling stories, and drives smarter business decisions. In the future, I am interested in pursuing a career as a Data Scientist or a Machine Learning Engineer. 
+
+Here are some more details about me:
+
+- <u>Hobbies:</u> Reading, Going on Long Walks, Watching TV, Painting, Dancing  
+- <u>Favorite Books:</u> Thousand Splendid Suns, My Brilliant Friend, Tiny Beautiful Things  
+- <u>Favorite TV Shows:</u> Derry Girls, New Girl, Bojack Horseman  
+- <u>Interests:</u> Mindfulness, Podcasts, Video Essays, Substack
+
+
+This page was last updated on `r Sys.time()`
